@@ -1,4 +1,4 @@
-# NEWSSITE
+# NEWSITE
 Newsite: Daily News with Voice Recognition
 
 1.Table of Contents
